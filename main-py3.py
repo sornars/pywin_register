@@ -1,4 +1,4 @@
-# script to register Python 2.0 or later for use with win32all
+# script to register Python 3.0 or later for use with win32all
 # and other extensions that require Python registry settings
 #
 # Adapted by Ned Batchelder from a script
